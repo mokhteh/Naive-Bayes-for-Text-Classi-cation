@@ -1,1 +1,1 @@
-# Naive-Bayes-for-Text-Classi-cation
+# Naive-Bayes-for-Text-Classication
